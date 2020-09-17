@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="package",
-    version="0.0.1",
+    version="1.0",
     url="https://github.com/hhllcks/package",
 
     author="Hendrik Hilleckes",
